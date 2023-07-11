@@ -1,0 +1,5 @@
+admin1,adminpassword,admin
+kupac1,kupacpassword,kupac
+oliver,sifra123,admin
+nikola,misko2,kupac
+aleksa,sifra123,kupac

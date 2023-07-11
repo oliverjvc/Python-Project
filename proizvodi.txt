@@ -1,0 +1,4 @@
+1,Coca-Cola,90,5
+2,Snickers,65,9
+3,Voda,50,10
+4,Smoki,60,10
